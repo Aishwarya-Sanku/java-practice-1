@@ -1,0 +1,3 @@
+first create repository in github
+
+second step clone the repository in required folder
